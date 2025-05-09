@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+<!-- Splash screen theme -->
+<style name="Theme.App.Starting"  parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <!-- Set the splash screen background, icon and animation duration. -->
+    <item name="windowSplashScreenBackground">@color/my_splash_screen_background_color</item>
+    <item name="windowSplashScreenAnimatedIcon">@drawable/my_splash_screen_icon</item>
+    <item name="windowSplashScreenAnimationDuration">300</item>
+    <!-- Specify the theme of your main activity. -->
+    <item name="postSplashScreenTheme">@style/Theme.Owler</item>
+</style>
+<!-- Main Application theme -->
+<style name="Theme.Owler" parent="Theme.MaterialComponents.Light.DarkActionBar">
+</style>
+</resources>

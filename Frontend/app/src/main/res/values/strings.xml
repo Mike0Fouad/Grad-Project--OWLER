@@ -1,0 +1,95 @@
+<resources>
+    <!-- Base application theme. -->
+    <!-- Auth strings -->
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_gender">Gender</string>
+    <string name="action_sign_in_with_google">Continue with Google</string>
+    <string name="error_generic">An error occurred</string>
+    <string name="error_google_sign_in_failed">Google sign-in failed</string>
+
+        <!-- Bottom nav titles -->
+    <string name="nav_profile">Profile</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_day">Day</string>
+    <string name="nav_settings">Settings</string>
+
+
+
+    <!-- Profile -->
+    
+    
+    <!-- Day -->
+
+
+    <!-- Item Task-->
+    <string name="delete_task">Delete task</string>
+    <string name="mental_workload">Mental workload </string>
+    <string name="physical_workload">Physical workload: </string>
+    <string name="exhaustion_value_format">Exhaustion: </string>
+    <string name="exhaustion">Exhaustion </string>
+    <string name="mental">mental</string>
+    <string name="physical">physical</string>
+    <string name="task_name_hint"/>
+    <string name="app_name">OwlerApp</string>
+
+
+    <!-- Calendar -->
+    
+    <!-- Settings -->
+    <string name="link_google_success">Google account linked successfully</string>
+    <string name="no_suggestions_available">No Suggestion Available</string>
+    <string name="cancel">Cancel</string>
+    <string name="exhaustion_default">5</string>
+    <string name="new_task" />
+
+    <string name="exhaustion_level">Exhaustion Level:</string>
+    <string name="add">Add</string>
+    <string name="task_name">Task name</string>
+    <string name="error_loading_schedule">Error loading schedule</string>
+    <string name="schedule">Schedule</string>
+    <string name="suggest_schedule">Suggest</string>
+    <string name="add_task">Add task</string>
+    <string name="start_time">Start: </string>
+    <string name="end_time">End</string>
+    <string name="deadline_time">Deadline</string>
+    <string name="enter_task_name">Enter Task Name</string>
+    <string name="invalid_time_range">End time must be after start time</string>
+    <string name="edit_task">Edit task</string>
+    <string name="done">Done</string>
+    <string name="save">Save</string>
+    <string name="hint_old_password">Old Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="btn_save_profile">Save Profile</string>
+    <string name="btn_change_password">Change Password</string>
+    <string name="btn_link_google">Link Google Account</string>
+    <string name="btn_delete_account">Delete Account</string>
+    <string name="close">Close</string>
+    <string name="productivity">Productivity</string>
+    <string name="schedule_suggest">Suggested Schedule</string>
+    <string name="sign_in_with_google"> </string>
+    <string name="btn_logout">Log out</string>
+    <string name="title_change_password">Change Password:</string>
+    <string name="title_edit_profile">Edit Profile</string>
+    <string name="calendar">Calendar</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="male_description">Male</string>
+    <string name="female_description">Female</string>
+    <string name="gender">Gender</string>
+    <string name="error_invalid_credential">Invalid credential provided.</string>
+    <string name="error_adding_task">Error adding task</string>
+
+
+    <!-- Task Item Labels -->
+    <string name="start_time_label">Start Time:</string>
+    <string name="end_time_label">End Time:</string>
+    <string name="deadline_label">Deadline:</string>
+    <string name="mental_workload_label">Mental Workload:</string>
+    <string name="physical_workload_label">Physical Workload:</string>
+    <string name="exhaustion_label">Exhaustion Level:</string>
+</resources>
